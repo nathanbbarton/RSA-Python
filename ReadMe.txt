@@ -1,8 +1,7 @@
 ReadMe
 
 Nathan Barton
-student number: 100792105
-COMP4109 final project
+
 RSA Crypto in a Terminal App
 
 !!!!!NOTICE VERY IMPORTANT!!!!!
